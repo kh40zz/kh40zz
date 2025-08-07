@@ -60,5 +60,7 @@
 </div>
 
 ###
-
-<img src="https://wakatime.com/share/@0550ec29-4d3e-4321-83aa-e4c354a833a8/b01201dd-2f6d-4bcc-91e8-a9028c79f748.svg">
+<div align="center">
+  <img height="500" src="https://wakatime.com/share/@0550ec29-4d3e-4321-83aa-e4c354a833a8/636edb2b-8869-446a-9c1e-dda319995ce2.svg"  />
+  <img height="500" src="https://wakatime.com/share/@0550ec29-4d3e-4321-83aa-e4c354a833a8/b01201dd-2f6d-4bcc-91e8-a9028c79f748.svg"  />
+</div>
