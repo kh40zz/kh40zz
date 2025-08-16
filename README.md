@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Golang and hacking web.**
 - 📝 I regularly write articles on **comming soon..**
-- 💬 Ask me about **networking (CCNA 200-301), Active Directory, GNU/Linux enviroments.
+- 💬 Ask me about **networking (CCNA 200-301), Active Directory, GNU/Linux enviroments.**
 - 📫 How to reach me **contactkh40z@gmail.com**.
 - ⚡ Fun fact **My favourite programming lenguage is PHP.**
 
